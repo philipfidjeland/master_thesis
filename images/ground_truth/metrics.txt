@@ -1,0 +1,2 @@
+Average: psnr=nan ssim=nan uiqm=nan uciqe=nan
+Average: psnr=nan ssim=nan uiqm=nan uciqe=nan
